@@ -1,0 +1,6 @@
+[submodule "CarltonFrontend"]
+	path = CarltonFrontend
+	url = https://github.com/Denis3006/CarltonFrontend.git
+[submodule "CarltonBackend"]
+	path = CarltonBackend
+	url = https://github.com/Denis3006/CarltonBackend.git
